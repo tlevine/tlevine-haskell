@@ -1,4 +1,7 @@
-manual :: [String]
+type Things = [String]
+
+
+manual :: Things
 manual = ["https://chrome.google.com/webstore/detail/simple-webcam/cejgmnpegppdhkmmgmdobfelcdgfhkmo?hl=en"]
 
 mingle :: String -> String
